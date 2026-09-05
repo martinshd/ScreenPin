@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.en.md">English</a> | <strong>中文</strong>
+</div>
+
 # ScreenPin
 
 来源于选择困难症，只想在mac上有一个简单的截图工具，简单的功能、简单的操作，保留一些快捷的使用习惯。
